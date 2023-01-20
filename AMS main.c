@@ -27,7 +27,7 @@ void main()
 	{
 		
 		printf("\n\n\t\t ********************************************************************");
-		printf("\n\t\t                   Welcome to  Win Airline system                   ");
+		printf("\n\t\t                   Welcome to  Vin Airline system                   ");
 		printf("\n\t\t   *******************************************************************");
 		printf("\n\n\n\t\t Please enter your choice from below (1-4):");
 		printf("\n\n\t\t 1. Reservation");
@@ -80,7 +80,7 @@ void details()
 }
 
 
-// ************************************GOOD LUCK WIN************************************
+// ************************************GOOD LUCK VIN************************************
 void details();
 
 void reserve(int x)
@@ -117,7 +117,7 @@ void reserve(int x)
 		return;
 	}
 } 
-// ************************GOOD LUCK WIN********************************
+// ************************GOOD LUCK VIN********************************
 
 
 void savefile()
@@ -142,7 +142,7 @@ void savefile()
 	printf("\n\n\t Details have been saved to a file (Vin records)");
 	fclose(fpointer);
 }
-//********************************GOOD LUCK WIN***************************************
+//********************************GOOD LUCK VIN***************************************
 
 void display()
 {
@@ -159,7 +159,7 @@ void display()
 	}
 
 }
-//*****************************GOOD LUCK WIN*************************************
+//*****************************GOOD LUCK VIN*************************************
 
 void cancel()
 {
